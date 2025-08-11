@@ -27,7 +27,7 @@
   <a href="https://fb.com/ihlaas.aathil" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="margin-right:10px;" />
   </a>
-  <a href="https://instagram.com/aathil_ihlaas" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/aathil_ihlaas_/" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
