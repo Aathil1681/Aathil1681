@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aathil</h1>
 <h3 align="center">🌱 Aspiring Full Stack Developer | Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathil168&label=Profile%20views&color=0e75b6&style=flat" alt="aathil168" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aathil1681&label=Profile%20views&color=0e75b6&style=flat" alt="aathil1681" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aathil168" alt="aathil168" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aathil1681" alt="aathil1681" /></a> </p>
 
 - 🌱 I’m currently learning **advanced React, GraphQL, Node.js, PostgreSQL, authentication, security, Docker, CI/CD, cloud deployment, testing, and performance optimization.**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aathil ihlaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aathil ihlaas" height="30" width="40" /></a>
-<a href="https://fb.com/aathil ihlaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aathil ihlaas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aathil-ihlaas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aathil-ihlaas/" height="30" width="40" /></a>
+<a href="https://fb.com/ihlaas.aathil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ihlaas.aathil" height="30" width="40" /></a>
 <a href="https://instagram.com/aathil_ihlaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aathil_ihlaas" height="30" width="40" /></a>
 </p>
 
@@ -24,6 +24,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/aathil168"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="aathil168" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathil168&show_icons=true&locale=en&layout=compact" alt="aathil168" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aathil1681&show_icons=true&locale=en&layout=compact" alt="aathil1681" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aathil168&show_icons=true&locale=en" alt="aathil168" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aathil1681&show_icons=true&locale=en" alt="aathil1681" /></p>
